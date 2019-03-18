@@ -1,0 +1,11 @@
+#php_value error_reporting 7
+#php_value register_globals off
+
+
+#php_value session.auto_start on
+
+#php_value session.name SID
+#php_value arg_separator.output &amp;
+#php_value session.use_cookies off
+
+#php_value session.use_trans_sid on

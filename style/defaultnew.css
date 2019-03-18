@@ -1,0 +1,144 @@
+body{
+margin: 0 auto;max-width: 480px; background-color: #111; font-size: medium;
+}
+input{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:11px}
+.s{font-size:10px}
+.j{text-decoration:none}
+.r{padding:4px;font-size:10px}
+.duelgan{
+border-bottom:1px solid #ffffff;
+padding:2px;
+background:#006666;
+}
+.dganin{
+padding-bottom:1px;
+}
+.zvklist{
+border-top:1px solid #ffffff;
+padding:2px;
+margin-top:1px;
+color:#000000;
+background:#BDBDBD
+}
+.zvklist a:link{
+color:#cd1414;
+}
+.a{
+background-color:#333333;
+color:#E0ECF8}
+.b{background-color:#BDBDBD; color:#000000}
+.b a:link{color:#cd1414;}
+.c{font-size:12px;font-weight:bold;color:#ffffff;background-color:#4C8960}
+.f{color:#ffffff;font-size:10px;padding:0px}
+.q{background-color:#000000; color:#ffffff; padding:0 0 1px 0;}
+.q a:link{
+color:#ffffff;
+text-decoration:none;
+}
+.ql{background-color:#000000; border-top:1px solid #CEF6CE; color:#ffffff; padding:0 0 1px 0;}
+.ql a:link{
+color:#DF7401;
+}
+.w{color:#ffffff}
+.x{color:#92C2A2;background-color:transparent}
+.y{color:#5BA473;background-color:transparent}
+.z{border-top:1px solid #ffffff;
+padding:2px;
+margin-top:1px;
+color:#000000;
+background:#BDBDBD}
+A:link{color:#6FCD72; background-color:transparent}
+A:visited{color:#6FCD72;background-color:transparent}
+A:hover{color:#6FCD72;background-color:transparent;text-decoration:none}
+A:active{color:#6FCD72;background-color:transparent}
+A.v:visited{text-decoration:none}
+.bg_gray{
+padding:3px;
+background:#dddddd;
+}
+.acz{
+background:#cdcdcd;
+}
+.input_100{
+width:100px;
+}
+.input_3{
+width:40px;
+}
+.submit_50{
+width:50px;
+margin-top:2px;
+}
+.submit_h15{
+height:15px;
+margin-top:2px;
+}
+.submit_70{
+width:70px;
+margin-top:2px;
+}
+.down_c{
+color:#ffffff;
+padding:1px;
+border-top:1px solid #ffffff;
+background:#000000;
+text-align:left;
+}
+.down_c a{
+color:#ffffff;
+}
+.color_white{
+color:#ffffff;
+}
+.color_red{
+color:red;
+}
+.color_blue{
+color:blue;
+}
+.color_green{
+color:#0B610B;
+}
+.color_grey{
+color:grey;
+}
+.alert{
+background-color:#2E2E2E; color:#FFDF8C
+}
+.parblock{
+background:#ffffff;
+padding-left:2px;
+}
+.baypars{
+background:#ffffff;
+padding:1px;
+}
+.divhr{
+border:1px solid #000000;
+}
+.item_block{
+border:1px solid #ffffff;
+}
+.downmenu{
+margin-top:2px;
+padding-bottom:2px;
+border-top:1px solid #666666;
+border-bottom:1px solid #666666;
+}
+.battleplayers{
+background:#ffffff;
+width:100%;
+}
+.timeOut{
+background:#ffffff;
+}
+.fightact{
+padding:2px;
+background:#C8E1D0;
+}
+.onus{
+border:1px solid #ffffff;
+}
+.onus a:link{
+color:#cd1414;
+}

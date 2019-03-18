@@ -1,0 +1,129 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background: #000000; 
+	font-size: 11px;
+	color: #ffffff;
+	border:1px solid #00CCFF;
+                font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+}
+input{
+border:1px solid #000000;
+}
+.top_c {
+color:#ffffff;
+padding:1px;
+background:#000000;
+text-align:left;
+border-bottom:1px solid #cccccc;
+}
+.middle_c{
+color:#cccccc;
+text-align:left;
+background:#003333;
+}
+.mainpad{
+padding-left:2px;
+padding-bottom:2px;
+}
+.middle_c a {
+color:#ffffff;
+}
+.duelgan{
+border-bottom:1px solid #ffffff;
+padding:2px;
+background:#006666;
+}
+.dganin{
+padding-bottom:1px;
+}
+.zvklist{
+border-top:1px solid #ffffff;
+padding:2px;
+margin-top:1px;
+color:#000000;
+background:#CCFFCC;
+}
+.zvklist a{
+color:#cd1414;
+}
+.down_c{
+color:#ffffff;
+padding:1px;
+border-top:1px solid #ffffff;
+background:#000000;
+text-align:left;
+}
+.down_c a{
+color:#ffffff;
+}
+.bg_gray{
+padding:3px;
+background:#dddddd;
+}
+.input_100{
+width:100px;
+}
+.submit_50{
+width:50px;
+margin-top:2px;
+}
+.submit_70{
+width:70px;
+margin-top:2px;
+}
+
+.color_white{
+color:#ffffff;
+}
+.color_red{
+color:red;
+}
+.color_blue{
+color:blue;
+}
+.color_green{
+color:lime;
+}
+.color_grey{
+color:grey;
+}
+.alert{
+background:#FF6600;
+border-bottom:1px solid #FFFFFF;
+padding-left:4px;
+color:#000999;
+}
+.parblock{
+background:#ffffff;
+padding-left:2px;
+}
+.baypars{
+background:#ffffff;
+padding:1px;
+}
+.divhr{
+border:1px solid #000000;
+}
+.item_block{
+border:1px solid #ffffff;
+}
+.downmenu{
+margin-top:2px;
+padding-bottom:2px;
+border-top:1px solid #666666;
+border-bottom:1px solid #666666;
+}
+.battleplayers{
+background:#ffffff;
+width:100%;
+}
+.timeOut{
+background:#ffffff;
+}
+.fightact{
+padding:2px;
+background:#CCCC99;
+}
