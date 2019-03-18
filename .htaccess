@@ -1,6 +1,7 @@
 #php_value error_reporting 7
 #php_value register_globals off
 
+#php_value magic_quotes_gpc on
 
 #php_value session.auto_start on
 
